@@ -17,11 +17,12 @@
     "web-animations-js": "^2.3.1"
   },
   "devDependencies": {
-    "flow-watch": "^1.1.1"
+    "flow-watch": "^1.1.1",
+    "sw-precache": "^5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && sw-precache --config=config/sw-precache-config.js && cat build/static/js/0.*.chunk.js | head -1 | sed 's/^[^{]*{[^{]*{//' | sed 's/}});$//' >> build/service-worker.js",
     "typecheck": "[ $CI = true ] && flow || flow-watch",
     "test": "export TEST=true && react-scripts test --env=jsdom",
     "eject": "react-scripts eject"

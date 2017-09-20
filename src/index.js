@@ -22,3 +22,7 @@ render(<App store={store} history={history}/>, document.getElementById('root'));
 updateStoreWithPassageText(store, locationToReference(window.location));
 
 registerServiceWorker();
+
+// trick create-react-app into creating a chunk for our service worker
+if (window.I_DONT_THINK_THIS_WILL_EVER_BE_THERE)
+  import('./service-worker.js');
