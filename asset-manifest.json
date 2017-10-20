@@ -1,10 +1,10 @@
 {
-  "main.css": "static/css/main.f811c545.css",
-  "main.css.map": "static/css/main.f811c545.css.map",
-  "main.js": "static/js/main.a28b1444.js",
-  "main.js.map": "static/js/main.a28b1444.js.map",
-  "service-worker.js": "static/js/service-worker.7d6f83a8.js",
-  "service-worker.js.map": "static/js/service-worker.7d6f83a8.js.map",
-  "static/js/0.1a8f55f4.chunk.js": "static/js/0.1a8f55f4.chunk.js",
-  "static/js/0.1a8f55f4.chunk.js.map": "static/js/0.1a8f55f4.chunk.js.map"
+  "main.css": "static/css/main.4deb5ec4.css",
+  "main.css.map": "static/css/main.4deb5ec4.css.map",
+  "main.js": "static/js/main.759294ac.js",
+  "main.js.map": "static/js/main.759294ac.js.map",
+  "service-worker.js": "static/js/service-worker.8a77e3f5.js",
+  "service-worker.js.map": "static/js/service-worker.8a77e3f5.js.map",
+  "static/js/0.63a92216.chunk.js": "static/js/0.63a92216.chunk.js",
+  "static/js/0.63a92216.chunk.js.map": "static/js/0.63a92216.chunk.js.map"
 }
