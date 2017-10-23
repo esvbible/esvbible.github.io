@@ -1,10 +1,10 @@
 {
   "main.css": "static/css/main.c785b37e.css",
   "main.css.map": "static/css/main.c785b37e.css.map",
-  "main.js": "static/js/main.2aff3483.js",
-  "main.js.map": "static/js/main.2aff3483.js.map",
-  "service-worker.js": "static/js/service-worker.0a5d6a0e.js",
-  "service-worker.js.map": "static/js/service-worker.0a5d6a0e.js.map",
+  "main.js": "static/js/main.5fd86453.js",
+  "main.js.map": "static/js/main.5fd86453.js.map",
+  "service-worker.js": "static/js/service-worker.973b43bf.js",
+  "service-worker.js.map": "static/js/service-worker.973b43bf.js.map",
   "static/js/0.ec438334.chunk.js": "static/js/0.ec438334.chunk.js",
   "static/js/0.ec438334.chunk.js.map": "static/js/0.ec438334.chunk.js.map"
 }
